@@ -62,7 +62,10 @@ I'm a Software Engineer by heart ❤️. I'm a passionate passionate self-taught
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nixonok&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Github Usage](https://activity-graph.herokuapp.com/graph?username=nixonok&theme=react-dark&bg_color=20232a&hide_border=true")](https://activity-graph.herokuapp.com)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nixonok&hide=c%23,C#,Android,Java,JavaScript,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true")]
+(https://github-readme-stats.vercel.app/)
+
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=nixonok&theme=react-dark&bg_color=20232a&hide_border=true")](https://activity-graph.herokuapp.com)
 
 ### What I'm listening to now:
 
