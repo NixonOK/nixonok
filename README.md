@@ -49,5 +49,7 @@ I'm a Software Engineer by heart ❤️. I'm a passionate learner who's always w
 - Game Engine : Unity3D
 - Server Stack : AWS, Node/.Net
 
+
+
 ### ⚡ My Stats ⚡:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nixonok&theme=tokyonight&currStreakNum=FFFD61&sideNums=FFCA28&ring=FFCA28&fire=FFFD61)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nixonok&theme=tokyonight)](https://git.io/streak-stats)
