@@ -1,4 +1,4 @@
-## Hello 👋, I'm [Nixon!](https://github.com/nixonok/)
+## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Nixon!](https://github.com/nixonok/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&height=30&lines=Software+Engineer;Game+Developer;Certified+Scrum+Master;Book+Worm;Proud+Bangladeshi)](https://git.io/typing-svg)
 
