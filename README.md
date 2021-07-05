@@ -19,8 +19,6 @@ I'm a Software Engineer by heart ❤️. I'm a passionate learner who's always w
 - 💬 Ask me anything about from [Here](https://github.com/nixonok/nixonok/issues).
 - 📫 How to reach me: <a href="mailto: nixonokk@gmail.com">nixonokk@gmail.com</a>
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMITS }}**+ commits.
-
 ### 🔥 Languages and Tools 🔥:
 
 <code><img title="C#" height="25" src="https://github.com/nixonok/nixonok/blob/master/images/cSharp.svg"></code>
