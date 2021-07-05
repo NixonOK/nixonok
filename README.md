@@ -45,7 +45,6 @@ I'm a Software Engineer by heart ❤️. I'm a passionate passionate self-taught
 <code><img title="JQuery" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/jquery-original.svg"></code>
 
 
-
 <img align="right" height="220" width="220" alt="" src="https://raw.githubusercontent.com/nixonok/nixonok/master/anims/mac.gif" />
 
 ### How I Work?:
@@ -65,6 +64,6 @@ I'm a Software Engineer by heart ❤️. I'm a passionate passionate self-taught
 
 ### Listening To Now:
 
-<img align="right" height="220" width="300" alt="" src="https://raw.githubusercontent.com/nixonok/nixonok/master/anims/morty.gif" />
+<img align="right" height="220" width="220" alt="" src="https://raw.githubusercontent.com/nixonok/nixonok/master/anims/morty.gif" />
 
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31g7fqbykkpbylfgoewkj4zabs7a)
