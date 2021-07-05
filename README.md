@@ -11,7 +11,7 @@
 
 I'm a Software Engineer by heart ❤️. I'm a passionate passionate self-taught game dev 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Mobile Game Development 🕸️ and working on Backend knowledge 🤓.
 
-<img align="right" height="250" width="250" alt="" src="https://raw.githubusercontent.com/nixonok/nixonok/master/anims/chess.gif" />
+<img align="right" height="220" width="220" alt="" src="https://raw.githubusercontent.com/nixonok/nixonok/master/anims/chess.gif" />
 
 ### About Me:
 
@@ -46,7 +46,7 @@ I'm a Software Engineer by heart ❤️. I'm a passionate passionate self-taught
 
 
 
-<img align="right" height="250" width="250" alt="" src="https://raw.githubusercontent.com/nixonok/nixonok/master/anims/mac.gif" />
+<img align="right" height="220" width="220" alt="" src="https://raw.githubusercontent.com/nixonok/nixonok/master/anims/mac.gif" />
 
 ### How I Work?:
 
