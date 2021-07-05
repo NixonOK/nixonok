@@ -9,7 +9,7 @@
 
 ### Good to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=nixonok.nixonok&style=flat-square&color=0088cc)
 
-I'm a Software Engineer by heart ❤️. I'm a passionate passionate self-taught game dev 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Mobile Game Development 🕸️ and working on Backend knowledge 🤓.
+I'm a Software Engineer and self-taught game dev by heart ❤️. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Mobile Game Development 🕸️ and working on Backend knowledge 🤓.
 
 <img align="right" height="220" width="220" alt="" src="https://raw.githubusercontent.com/nixonok/nixonok/master/anims/chess.gif" />
 
@@ -20,8 +20,6 @@ I'm a Software Engineer by heart ❤️. I'm a passionate passionate self-taught
 - 📚 I’m currently learning game server/backend stuff.
 - 💬 Ask me anything about from [Here](https://github.com/nixonok/nixonok/issues).
 - 📫 How to reach me: <a href="mailto: nixonokk@gmail.com">nixonokk@gmail.com</a>
-
-
 
 ### Languages and Tools:
 
@@ -44,7 +42,6 @@ I'm a Software Engineer by heart ❤️. I'm a passionate passionate self-taught
 <code><img title=".NetCore" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/dotnetcore.svg"></code>
 <code><img title="JQuery" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/jquery-original.svg"></code>
 
-
 <img align="right" height="220" width="220" alt="" src="https://raw.githubusercontent.com/nixonok/nixonok/master/anims/mac.gif" />
 
 ### How I Work?:
@@ -56,7 +53,6 @@ I'm a Software Engineer by heart ❤️. I'm a passionate passionate self-taught
 - Game Engine : Unity3D
 - Server Stack : AWS, Node/.Net
 
- 
 ### My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nixonok&theme=tokyonight)](https://git.io/streak-stats)
