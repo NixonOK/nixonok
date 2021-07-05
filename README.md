@@ -66,4 +66,4 @@ I'm a Software Engineer by heart ❤️. I'm a passionate passionate self-taught
 
 ### Listening To Now:
 
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31g7fqbykkpbylfgoewkj4zabs7a)
