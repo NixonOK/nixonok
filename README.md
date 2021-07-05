@@ -11,7 +11,7 @@
 
 I'm a Software Engineer by heart ❤️. I'm a passionate learner who's always willing to learn 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Mobile Game Development 🕸️ and working on Backend knowledge 🤓.
 
-<img align="right" height="300" width="300" alt="" src="https://raw.githubusercontent.com/nixonok/nixonok/master/anims/chess.gif" />
+<img align="right" height="250" width="250" alt="" src="https://raw.githubusercontent.com/nixonok/nixonok/master/anims/chess.gif" />
 
 ### About Me:
 
@@ -20,6 +20,8 @@ I'm a Software Engineer by heart ❤️. I'm a passionate learner who's always w
 - 📚 I’m currently learning game server/backend stuff.
 - 💬 Ask me anything about from [Here](https://github.com/nixonok/nixonok/issues).
 - 📫 How to reach me: <a href="mailto: nixonokk@gmail.com">nixonokk@gmail.com</a>
+
+
 
 ### 🔥 Languages and Tools 🔥:
 
@@ -41,6 +43,8 @@ I'm a Software Engineer by heart ❤️. I'm a passionate learner who's always w
 <code><img title="JQuery" height="25" src="https://github.com/nixonok/nixonok/blob/master/images/jquery-original.svg"></code>
 <code><img title="JSON" height="25" src="https://github.com/nixonok/nixonok/blob/master/images/json.svg"></code>
 
+
+<img align="right" height="250" width="250" alt="" src="https://raw.githubusercontent.com/nixonok/nixonok/master/anims/mac.gif" />
 
 ### How i work?:
 
