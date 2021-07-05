@@ -48,7 +48,7 @@ I'm a Software Engineer by heart ❤️. I'm a passionate passionate self-taught
 
 <img align="right" height="250" width="250" alt="" src="https://raw.githubusercontent.com/nixonok/nixonok/master/anims/mac.gif" />
 
-### How i work?:
+### How I Work?:
 
 - OS : macOS BigSur
 - Machine : Macbook Pro 16 inch (i9)
@@ -62,11 +62,8 @@ I'm a Software Engineer by heart ❤️. I'm a passionate passionate self-taught
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nixonok&theme=tokyonight)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nixonok&hide=c%23,C#,Android,Java,JavaScript,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true")]
-(https://github-readme-stats.vercel.app/)
-
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=nixonok&theme=react-dark&bg_color=20232a&hide_border=true")](https://activity-graph.herokuapp.com)
 
-### What I'm listening to now:
+### Listening To Now:
 
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
