@@ -1,6 +1,6 @@
 ## Hello 👋, I'm [Nixon!](https://github.com/nixonok/)
 
-## I'm a [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&height=30&lines=Software+Engineer;Game+Developer;Certified+Scrum+Master;Book+Worm;Proud+Bangladeshi)](https://git.io/typing-svg)
+<p align="top" height="100" width="24">This is a paragraph.</p> [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&height=30&lines=Software+Engineer;Game+Developer;Certified+Scrum+Master;Book+Worm;Proud+Bangladeshi)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nixonok)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/NixonOk/)
