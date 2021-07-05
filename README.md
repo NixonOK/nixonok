@@ -11,6 +11,8 @@
 
 I'm a Software Engineer by heart ❤️. I'm a passionate learner who's always willing to learn 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Mobile Game Development 🕸️ and working on Backend knowledge 🤓.
 
+<img align="right" height="300" width="300" alt="" src="https://raw.githubusercontent.com/nixonok/nixonok/master/anims/chess.gif" />
+
 ### About Me:
 
 - 🔬 I'm currently working at [Ulka Games Limited](https://ulka.games) - Part of [Moonfrog Labs](https://moonfroglabs.com).
