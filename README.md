@@ -17,7 +17,7 @@ I'm a Software Engineer by heart ❤️. I'm a passionate learner who's always w
 - 💻 I love writing code and learn new things about it.
 - 📚 I’m currently learning game server/backend stuff.
 - 💬 Ask me anything about from [Here](https://github.com/nixonok/nixonok/issues).
-- 📫 How to reach me: [nixonokk@gmail.com](mailto: nixonokk@gmail.com)
+- 📫 How to reach me: <a href="mailto: nixonokk@gmail.com">nixonokk@gmail.com</a>
 
 Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMITS }}**+ commits.
 
@@ -33,6 +33,8 @@ Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMITS 
 <code><img title="C++" height="25" src="https://github.com/nixonok/nixonok/blob/master/images/cpp.svg"></code>
 <code><img title="Problem Solving" height="25" src="https://github.com/nixonok/nixonok/blob/master/images/problemSolving.png"></code>
 <code><img title="HTML5" height="25" src="https://github.com/nixonok/nixonok/blob/master/images/html5.svg"></code>
+<code><img title="JavaScript" height="25" src="https://github.com/nixonok/nixonok/blob/master/images/javascript.svg"></code>
+<code><img title="Python" height="25" src="https://github.com/nixonok/nixonok/blob/master/images/python-original.svg"></code>
 <code><img title="CSS" height="25" src="https://github.com/nixonok/nixonok/blob/master/images/css.svg"></code>
 <code><img title="Git" height="25" src="https://github.com/nixonok/nixonok/blob/master/images/git-original.svg"></code>
 <code><img title=".NetCore" height="25" src="https://github.com/nixonok/nixonok/blob/master/images/dotnetcore.svg"></code>
