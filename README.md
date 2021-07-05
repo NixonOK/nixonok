@@ -34,6 +34,7 @@ I'm a Software Engineer by heart ❤️. I'm a passionate learner who's always w
 <code><img title="C" height="25" src="https://github.com/nixonok/nixonok/blob/master/images/c.svg"></code>
 <code><img title="C++" height="25" src="https://github.com/nixonok/nixonok/blob/master/images/cpp.svg"></code>
 <code><img title="Problem Solving" height="25" src="https://github.com/nixonok/nixonok/blob/master/images/problemSolving.png"></code>
+</br>
 <code><img title="HTML5" height="25" src="https://github.com/nixonok/nixonok/blob/master/images/html5.svg"></code>
 <code><img title="JavaScript" height="25" src="https://github.com/nixonok/nixonok/blob/master/images/javascript.svg"></code>
 <code><img title="Python" height="25" src="https://github.com/nixonok/nixonok/blob/master/images/python-original.svg"></code>
