@@ -57,12 +57,12 @@ I'm a Software Engineer by heart ❤️. I'm a passionate passionate self-taught
 - Game Engine : Unity3D
 - Server Stack : AWS, Node/.Net
 
-
+ 
 ### My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nixonok&theme=tokyonight)](https://git.io/streak-stats)
 
-[Github Usage](https://activity-graph.herokuapp.com/graph?username=nixonok&theme=react-dark&bg_color=20232a&hide_border=true")
+[![Github Usage](https://activity-graph.herokuapp.com/graph?username=nixonok&theme=react-dark&bg_color=20232a&hide_border=true")](https://activity-graph.herokuapp.com)
 
 ### What I'm listening to now:
 
