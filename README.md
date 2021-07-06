@@ -1,4 +1,4 @@
-## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Nixon!](https://github.com/nixonok/)
+## Hello, I'm [Nixon!](https://github.com/nixonok/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&height=30&lines=Software+Engineer;Game+Developer;Certified+Scrum+Master;Book+Worm;Proud+Bangladeshi)](https://git.io/typing-svg)
 
@@ -9,7 +9,7 @@
 
 ### Good to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=nixonok.nixonok&style=flat-square&color=0088cc)
 
-I'm a Software Engineer and self-taught game dev by heart ❤️. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Mobile Game Development 🕸️ and working on Backend knowledge 🤓.
+I'm a software engineer and self-taught game dev by heart ❤️. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Mobile Game Development 🕸️ and working on Backend knowledge 🤓.
 
 <img align="right" height="220" width="220" alt="" src="https://raw.githubusercontent.com/nixonok/nixonok/master/anims/chess.gif" />
 
@@ -59,7 +59,5 @@ I'm a Software Engineer and self-taught game dev by heart ❤️. I love to expl
 
 
 ### Listening To Now:
-
-<img align="right" height="220" width="220" alt="" src="https://raw.githubusercontent.com/nixonok/nixonok/master/anims/morty.gif" />
 
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31g7fqbykkpbylfgoewkj4zabs7a)
