@@ -53,11 +53,6 @@ I'm a software engineer and self-taught game dev ❤️. I love to explore new t
 - Game Engine : Unity3D
 - Server Stack : AWS, Node/.Net
 
-### My Stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nixonok&theme=tokyonight)](https://git.io/streak-stats)
-
-
 ### Listening To Now:
 
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31g7fqbykkpbylfgoewkj4zabs7a)
