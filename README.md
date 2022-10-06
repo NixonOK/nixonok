@@ -1,4 +1,4 @@
-## Hello, I'm [Nixon!](https://github.com/nixonok/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello, I'm [Mohaiminur!](https://github.com/nixonok/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&height=30&lines=Software+Engineer;Game+Developer;Certified+Scrum+Master;Book+Worm;Proud+Bangladeshi)](https://git.io/typing-svg)
 
@@ -35,23 +35,23 @@ I'm a software engineer and self-taught game dev ❤️. I love to explore new t
 </br></br>
 <code><img title="HTML5" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/html5.svg"></code>
 <code><img title="JavaScript" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/javascript.svg"></code>
-<code><img title="Python" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/python-original.svg"></code>
-<code><img title="CSS" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/css.svg"></code>
+<code><img title="TypeScript" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/python-original.svg"></code>
+<code><img title="NodeJS" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/css.svg"></code>
 <code><img title="C" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/c.svg"></code>
 <code><img title="C++" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/cpp.svg"></code>
 <code><img title=".NetCore" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/dotnetcore.svg"></code>
-<code><img title="JQuery" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/jquery-original.svg"></code>
+<code><img title="AWS" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/jquery-original.svg"></code>
 
 <img align="right" height="220" width="220" alt="" src="https://raw.githubusercontent.com/nixonok/nixonok/master/anims/mac.gif" />
 
 ### How I Work?:
 
 - OS : macOS BigSur
-- Machine : Macbook Pro 16 inch (i9)
+- Machine : Macbook Pro 16 inch (M1 Max)
 - Browser : Chrome
 - Code Editor : JetBrains Rider
 - Game Engine : Unity3D
-- Server Stack : AWS, Node/.Net
+- Server Stack : AWS, NodeJS, TypeScript
 
 ### Listening To Now:
 
