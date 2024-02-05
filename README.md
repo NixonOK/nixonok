@@ -15,10 +15,10 @@ I'm a software engineer and self-taught game dev ❤️. I love to explore new t
 
 ### About Me:
 
-- 🔬 I'm currently working at [Ulka Games Limited](https://ulka.games) - Part of [Moonfrog Labs](https://moonfroglabs.com).
-- 💻 I love writing code and learn new things about it.
+- 🔬 I'm currently working at [Funfuse Games LLC]([https://ulka.games](https://funfusegames.com/)).
+- 💻 I love writing code and learning new things about it.
 - 📚 I’m currently learning game server/backend stuff.
-- 💬 Ask me anything about from [Here](https://github.com/nixonok/nixonok/issues).
+- 💬 Ask me anything about it from [Here](https://github.com/nixonok/nixonok/issues).
 - 📫 How to reach me: <a href="mailto: nixonokk@gmail.com">nixonokk@gmail.com</a>
 
 ### Languages and Tools:
@@ -46,7 +46,7 @@ I'm a software engineer and self-taught game dev ❤️. I love to explore new t
 
 ### How I Work?:
 
-- OS : macOS BigSur
+- OS : macOS Sonoma
 - Machine : Macbook Pro 16 inch (M1 Max)
 - Browser : Chrome
 - Code Editor : JetBrains Rider
