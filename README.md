@@ -47,7 +47,7 @@ I'm a software engineer and self-taught game dev ❤️. I love to explore new t
 ### How I Work?:
 
 - OS : macOS Sonoma
-- Machine : Macbook Pro 16 inch (M1 Max)
+- Machine : Macbook Pro 16 inch (M1 Pro)
 - Browser : Chrome
 - Code Editor : JetBrains Rider
 - Game Engine : Unity3D
